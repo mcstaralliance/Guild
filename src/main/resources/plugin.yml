@@ -1,0 +1,4 @@
+name: Guild
+version: '${project.version}'
+main: com.mcstaralliance.guild.Guild
+api-version: '1.16'
